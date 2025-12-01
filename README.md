@@ -1,6 +1,6 @@
 # Pharmacy Management System
 
-### Mini Project for Database Management Systems (18CSC303J)
+### DBMS Lab Project
 
 Members:
 - Amitansh Gupta (1RV23CY007)
